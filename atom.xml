@@ -1,45 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kuoryan.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-04-12T08:29:42.415Z</updated>
+    <title>Hi! Ryan</title>
+    <updated>2022-04-12T08:39:48.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kuoryan.github.io"/>
     <link rel="self" href="https://kuoryan.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>读书 运动 碎碎念</subtitle>
     <logo>https://kuoryan.github.io/images/avatar.png</logo>
     <icon>https://kuoryan.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, Hi! Ryan</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://kuoryan.github.io/post/hello-gridea/</id>
-        <link href="https://kuoryan.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[《大逆转》]]></title>
+        <id>https://kuoryan.github.io/post/lesslessda-ni-zhuan-greatergreater/</id>
+        <link href="https://kuoryan.github.io/post/lesslessda-ni-zhuan-greatergreater/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2022-04-12T08:31:34.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://s2.loli.net/2022/04/12/djDX9NY5BIkHiuy.jpg" alt="" loading="lazy"></figure>
+<p>作者：<strong>天藤真</strong></p>
+<p>出版社：<strong>独步文化</strong></p>
+<p>译者：<strong>李彦桦</strong></p>
+<blockquote>
+<p>“阅读《大诱拐》初于台湾发行的版本时，我的感想是“一场灿烂的烟火秀”。当然，不是那种转瞬即逝的耀眼夺目，而是会在心底深处回荡、绽开火花的绚烂。”</p>
+<p>——宠物先生</p>
+</blockquote>
+<p>这是我2022年4月读过的第一本书，也是第一次读天藤真的书。</p>
+<p>上课发呆时无意看到新星出版社微博发了条微博，新星版《大诱拐》的赠品“一百亿日元支票”在PS里打开居然显示“不能编辑钞票”。不知道这条微博是编辑有意为之还是软宣发，加之最近各大平台都在推这本书，让我有了读它的欲望。正好看到有台版电子书，所以不等拿到新出版的纸本书就提前开始享受阅读了。</p>
+<p>《大逆转》讲了三个有盗窃前科的小贼组成的绑架集团“彩虹童子”为了五千万日元（后来居然升到了一百亿）绑架了当地德高望重的柳川家老太太的故事。绑架人质的诡计和连城三纪彦的短篇《小异邦人》有些类似，表面上的人质实际是剧场演出的导演，只不过本作没有叙述性诡计，更大众、更娱乐。考虑到成书时间在40年前，尽管故事架构已经老掉牙了，但作者的人物设定和故事舞台都很讨巧，放到如今仍然不违和。而“剧场推理”这个词在书末宠物先生写的解读里十分恰当。</p>
+<p>整本书几乎是一口气读完的，前期天藤真埋下了很多伏笔，同时使用了很多专业的词句来解释“挟持人质”的合理性。导致整篇故事有点像导演宁浩的黑色喜剧。包含着彩虹童子三人和柳川家老太太的身份冲突、遗产税和实际所得的冲突、绑架行为中金钱和人命的冲突。冲突导致了故事的发生，成为了小说娱乐性的来源。</p>
+<blockquote>
+<p>“认识婆婆后，我深深感到人的器量不同。婆婆做事，钱都以亿为单位，我们这种用泡面计数的人是模仿不来的。勉强去学，只会自讨没趣。这几十亿赎金也是，我捧着好比猴子穿铠甲，反倒动弹不得。做人该认分，虽然一千万仍有点多，但我急需几百万还债，只好勉强带走。这已是我的极限，超过是自找麻烦。就一千万，多一毛钱都不接受。”</p>
+</blockquote>
+<p>故事最终走向大团圆结局，彩虹童子等人都回归了他们渴望的生活。天藤真在小说里打造了一个权利和财富中心——柳川刀自，她的关系网大到可以渗透进警视厅和电视台的体系，但又不滥用，每一个关系都和剧情环环相扣，看似荒诞的谈判过程却都合理，这种小说和现实的巨大落差让我怀疑天藤真是不是有反社会倾向（笑），不过看似无限大的权利恰巧导致读者用上帝视角看那些平时高高在上的人时，他们遇事仿佛热锅上的蚂蚁，给故事添加了“幽默”的合理性。</p>
+<p>总体而言故事比较偏理想化，没有大逆转也不需要太费脑细胞来思考诡计。不过相较于烧脑的诡计与复杂的人物关系，本作可以算是十分成功的娱乐小说。</p>
 ]]></content>
     </entry>
 </feed>
